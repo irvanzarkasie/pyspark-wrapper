@@ -3,7 +3,7 @@ import configparser
 import os
 
 # Prepare logger lib
-import LoggerWrapper
+from LoggerWrapper import LoggerWrapper
 logger = LoggerWrapper.init_logger(__name__)
 
 # Get current script directory
