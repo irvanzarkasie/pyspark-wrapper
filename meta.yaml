@@ -1,0 +1,6 @@
+package:
+  name: pyspark-wrapper
+  version: 0.1
+
+source:
+  path: .
